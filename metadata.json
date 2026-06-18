@@ -1,0 +1,6 @@
+{
+  "name": "Green Cucina",
+  "description": "Green Cucina is a premium luxury Italian restaurant website based in Kota, Rajasthan, featuring a dynamic CMS-style editable menu, smooth Framer Motion animations, a table reservation system, and a modern, fully-responsive elegant layout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
